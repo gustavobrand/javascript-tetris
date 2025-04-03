@@ -26,3 +26,5 @@ License
 [MIT](http://en.wikipedia.org/wiki/MIT_License) license.
 
 Alteracoes na aula de 2/abr/2025 para os exercicios com Github
+
+Novas alteracoes e um segundo commit
